@@ -1,3 +1,5 @@
+> ⚠️ **本仓库已废弃**：内容已并入 [agent-deploy](https://github.com/hpsks416/agent-deploy) 的 skills/agent-workflow-orchestration/ 子目录，请以 agent-deploy 为准。本仓库保留仅供历史归档。
+
 # agent-workflow-orchestration
 
 一套 agent 编排自身工作的元工作流：把复杂请求拆解、并行、验证、收敛，并管理长任务与技能。分两层——**通用工作法**（跨工具成立的方法论内核，主体）与 **DSH 工具落地层**（四维度可操作用法）。
@@ -26,3 +28,4 @@
 ## License
 
 MIT License. See [LICENSE](LICENSE).
+
